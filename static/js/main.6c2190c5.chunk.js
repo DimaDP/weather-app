@@ -1,2 +1,0 @@
-(this["webpackJsonpreact_movies-list-add-form"]=this["webpackJsonpreact_movies-list-add-form"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),a=n(2),c=n.n(a),s=(n(8),n(9),function(){return o.a.createElement("p",null,"clear repo")});c.a.render(o.a.createElement(s,null),document.getElementById("root"))},3:function(e,t,n){e.exports=n(10)},9:function(e,t,n){}},[[3,1,2]]]);
-//# sourceMappingURL=main.6c2190c5.chunk.js.map
